@@ -1,0 +1,7 @@
+".\output\lcd1602.obj",
+".\output\key.obj",
+".\output\main.obj",
+".\output\app.obj",
+".\output\display.obj" 
+TO ".\output\1602-miaobiao" 
+PRINT(".\1602-miaobiao.m51")
